@@ -218,7 +218,7 @@ const workExperiences = {
   experience: [
     {
       role: "Graduate Researcher",
-      company: "Penn State University – Initiative for Geostatistics & Geomodelling Applications (PSIGGMA)",
+      company: "Penn State Initiative for Geostatistics & Geomodelling Applications",
       companyURL: "https://sites.psu.edu/psggmaimp/",
       companylogo: require("./assets/images/Penn-State-University-Logo.png"),
       date: "2023 – Present",
@@ -232,7 +232,7 @@ const workExperiences = {
 
 {
   role: "Graduate Teaching Assistant",
-  company: "Penn State University – Department of Energy and Mineral Engineering",
+  company: "Department of Energy and Mineral Engineering, Penn State",
   companyURL: "https://www.eme.psu.edu/",
   companylogo: require("./assets/images/Penn-State-University-Logo.png"),
   date: "2022 – 2023",
@@ -244,7 +244,7 @@ const workExperiences = {
 
 {
   role: "Operations Engineer / Project Support",
-  company: "Bonitas Energy Solutions Limited",
+  company: "Bonitas Energy Solutions Ltd",
   companyURL: "https://bonitasenergy.com/",
   companylogo: require("./assets/images/Bonitas-Oil-Gas-Ltd.png"),
   date: "2019 – 2021",
