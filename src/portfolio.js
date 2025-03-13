@@ -225,7 +225,7 @@ const workExperiences = {
       descBullets: [
       "Developed real-time geosteering decision support systems integrating machine learning and multi-objective optimization (NSGA-II, DMOPSO) to enhance wellbore placement.",
       "Implemented ensemble-based geostatistical model updating (EnKF, SGSIM) to reduce subsurface uncertainty and improve reservoir characterization",
-      "Designed data assimilation workflows using continuous LWD/MWD updates, improving model predictability and reducing drilling risks.",
+      // "Designed data assimilation workflows using continuous LWD/MWD updates, improving model predictability and reducing drilling risks.",
       "Applied Python-based geospatial analysis for optimizing well trajectory and maximizing reservoir contact."
     ]
 },
@@ -251,9 +251,9 @@ const workExperiences = {
   descBullets: [
   "Developed data-driven intervention strategies for offshore well optimization using predictive analytics.",
   "Led the design and deployment of an automated inventory management system using Power BI, reducing operational inefficiencies by 20%.",
-  "Conducted pressure control and fluid monitoring for slickline and e-line operations, applying real-time data analytics for performance tracking.",
+  // "Conducted pressure control and fluid monitoring for slickline and e-line operations, applying real-time data analytics for performance tracking.",
   "Applied Earned Value Management (EVM) techniques to track project costs, achieving 10% cost savings in well intervention operations.",
-  "Developed data-driven well intervention strategies, integrating probabilistic risk assessments for offshore operations."
+  // "Developed data-driven well intervention strategies, integrating probabilistic risk assessments for offshore operations."
 ]
 },
 
