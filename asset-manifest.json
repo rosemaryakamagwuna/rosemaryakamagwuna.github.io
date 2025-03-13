@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8d850dc6.css",
-    "main.js": "/static/js/main.12880230.js",
+    "main.js": "/static/js/main.e7deca29.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/static/js/487.7ae187c0.chunk.js",
     "static/css/990.bec58b9e.chunk.css": "/static/css/990.bec58b9e.chunk.css",
@@ -11,7 +11,7 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/Penn-State-University-Logo.png": "/static/media/Penn-State-University-Logo.9cb3841621e73b2c7f35.png",
+    "static/media/Penn-State-University-Logo.png": "/static/media/Penn-State-University-Logo.7ca70c10b88bb0c766af.png",
     "static/media/Bonitas-Oil-Gas-Ltd.png": "/static/media/Bonitas-Oil-Gas-Ltd.f41116175d8724527221.png",
     "static/media/WAAIME_logo.png": "/static/media/WAAIME_logo.09b93b3f03e8fba50bf1.png",
     "static/media/Uniben-logo.png": "/static/media/Uniben-logo.afb537d70958fee4a716.png",
@@ -21,7 +21,7 @@
     "static/media/power.svg": "/static/media/power.3ed907cca87773b18ba124e413a4d3be.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.8d850dc6.css.map": "/static/css/main.8d850dc6.css.map",
-    "main.12880230.js.map": "/static/js/main.12880230.js.map",
+    "main.e7deca29.js.map": "/static/js/main.e7deca29.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/static/js/487.7ae187c0.chunk.js.map",
     "990.bec58b9e.chunk.css.map": "/static/css/990.bec58b9e.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.8d850dc6.css",
-    "static/js/main.12880230.js"
+    "static/js/main.e7deca29.js"
   ]
 }
